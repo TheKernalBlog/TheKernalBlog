@@ -1,7 +1,7 @@
 # Setup
 title:               The Kernal
 tagline:             'Guy With A Computer'
-description:         'The best place on the internet for information related to Linux and Linux based operating systems'
+description:         '*The best place on the internet for information related to Linux and Linux based operating systems*'
 url:                 https://thekernal.xyz
 baseurl:             ''
 paginate:            5
