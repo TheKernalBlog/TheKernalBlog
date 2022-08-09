@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Chances are, if you use desktop Linux, you're using Plymouth every time that you boot into your computer. Whether you use Fedora, Manjaro, Debian, or Ubuntu, Plymouth is going to come pre-installed. Plymouth, is a boot screen application that gives you something a little more appealing than a simple Systemd output. However, on most distros, it's a little stale. Thankfully though, there are a plethora of themes available, and I am going to show you how you can install and apply them to any Linux distro.
 
