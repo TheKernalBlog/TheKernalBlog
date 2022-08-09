@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 Chances are, if you use desktop Linux, you're using Plymouth every time that you boot into your computer. Whether you use Fedora, Manjaro, Debian, or Ubuntu, Plymouth is going to come pre-installed. Plymouth, is a boot screen application that gives you something a little more appealing than a simple Systemd output. However, on most distros, it's a little stale. Thankfully though, there are a plethora of themes available, and I am going to show you how you can install and apply them to any Linux distro.
 
@@ -54,7 +54,7 @@ Once you have your theme downloaded and extracted, all you need to do is put it 
 
 # Switching Default Theme
 
-![IMG2](/images/PlymouthTheme3) 
+![IMG2](/images/PlymouthTheme3.png) 
 
 Once you have the directory containing the theme in the correct place, all you need to do is enable it. And while there are many guides that will show you distro specific ways of changing the default theme, I personally think this method is better, because not only is it dead simple, it works on every Linux distro.
 
