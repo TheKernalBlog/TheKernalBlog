@@ -24,14 +24,14 @@ If you want to install some simple, generic themes from your distro repositories
 
 ### Ubuntu/Debian
 
-`sudo apt install plymouth-themes`
+	`sudo apt install plymouth-themes`
 
 
 <a id="orgd51c527"></a>
 
 ### Fedora
 
-`sudo dnf install plymouth-theme-charge plymouth-theme-hot-dog plymouth-theme-solar plymouth-theme-spinfinity plymouth-theme-fade-in plymouth-theme-script plymouth-theme-spinner`
+	`sudo dnf install plymouth-theme-charge plymouth-theme-hot-dog plymouth-theme-solar plymouth-	theme-spinfinity plymouth-theme-fade-in plymouth-theme-script plymouth-theme-spinner`
 
 
 <a id="org28058b9"></a>
@@ -47,7 +47,7 @@ If you want to install some simple, generic themes from your distro repositories
 
 Once you have your theme downloaded and extracted, all you need to do is put it in the right place. You can either use a graphical file manager with root privlages, or a terminal. Just move the directory to **usr/share/plymouth/themes** in the file manager, or use this command to do the same thing from the terminal.
 
-`sudo mv PATH/TO/THEME /usr/share/plymouth/themes/`
+	`sudo mv PATH/TO/THEME /usr/share/plymouth/themes/`
 
 
 <a id="orgd907530"></a>
@@ -60,11 +60,11 @@ Once you have the directory containing the theme in the correct place, all you n
 
 First, in your terminal emulator, you need to cd into the directory where you installed the theme. 
 
-`cd /usr/share/plymouth/themes/THEME`
+	`cd /usr/share/plymouth/themes/THEME`
 
 Then, in that directory, you can type `ls`, and you will see a file that ends in *.plymouth*. Once you've identified the file, all you need to do is copy it to the *default.plymouth* file, using this command.
 
-`sudo cp THEME.plymouth /usr/share/plymouth/themes/default.plymouth`
+	`sudo cp THEME.plymouth /usr/share/plymouth/themes/default.plymouth`
 
 
 <a id="orgd612952"></a>
