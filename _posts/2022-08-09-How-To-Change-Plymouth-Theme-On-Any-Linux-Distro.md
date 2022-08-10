@@ -38,7 +38,7 @@ If you want to install some simple, generic themes from your distro repositories
 
 ### Arch Linux
 
-`Comes with themes pre-installed Plymouth package` 
+`Comes with themes pre-installed Plymouth packages` 
 
 
 <a id="org6bf390d"></a>
