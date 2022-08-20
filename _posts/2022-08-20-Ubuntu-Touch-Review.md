@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 For around half a year, I've been using an Alcatel Go Flip 4 as my main and only phone. For the most part, I've been pretty happy with it. But there's still some times where a smartphone comes in handy. Browsing the internet, writing, and navigation are severely gimped on a flip phone. 
 So, when I decided to get a smartphone to use as a second phone, I decided on a Google Nexus 5 on which I would install Ubuntu touch. And so, now that I've got to play around with it, I think I can give a detailed enough review, and share my experience with you. 
@@ -35,4 +35,4 @@ Convergence is the main feature of Lomiri, and it is executed flawlessly. I can'
 
 # Conclusion 
 
-Ubuntu Touch is an amazing project that I would reccomend to almost anyone. It allows you to take an older, unsupported Android device that you might already have sitting in your closet, and turn it into a fully functional Linux machine that can make phone calls and use SMS. It is a great way to escape Google survalience without having to go and buy a flip phone like me. If you have the money, the technical know-how, and a phone carrier that doesn't hate you, I'd reccomend you buy a phone and give it a whirl. 
+Ubuntu Touch is an amazing project that I would reccomend to almost anyone. It allows you to take an older, unsupported Android device that you might already have sitting in your closet, and turn it into a fully functional Linux machine that can make phone calls and use SMS. It is a great way to escape Google survalience without having to go and buy a flip phone like me. If you have the money, the technical know-how, and a phone carrier that doesn't hate you, I'd reccomend you buy a phone and give it a whirl.
