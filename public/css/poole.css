@@ -155,7 +155,7 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #bf616a;
+  color: #eceff4;
   background-color: #434c5e;
   border-radius: 3px;
 }
@@ -214,7 +214,7 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #4c566a;
+  color: #eceff4;
   border-left: .25rem solid #4c566a;
 }
 blockquote p:last-child {
