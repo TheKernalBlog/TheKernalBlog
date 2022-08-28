@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 and Tv shows. So, like every vital piece of software on my system, I'm very opinionated in terms of what I use. And after searching, finding, and using many different torrent clients, I have settled on Transmission. Transmission is a torrent client that can be used in many different platforms, under many different frameworks, including on the command line. So, if having a fully functional torrent client on the command line is something that appeals to you, I'll show you how you can install and use Transmission CLI on any Linux distro.  
 
@@ -57,5 +57,4 @@ Now, ideally, you'd seed the torrent for as long as you possibly can, but eventu
 
 # Conclusion 
 
-Whether you have a system with crappy specs, want to use MPV with framebuffer for a dedicated movie watching system, or just like using the terminal, transmission-cli is a easy, fast and effective way to torrent without ever having to touch a GUI. 
-
+Whether you have a system with crappy specs, want to use MPV with framebuffer for a dedicated movie watching system, or just like using the terminal, transmission-cli is a easy, fast and effective way to torrent without ever having to touch a GUI.
