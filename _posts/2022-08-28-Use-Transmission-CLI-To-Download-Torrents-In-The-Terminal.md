@@ -45,9 +45,9 @@ If you want to monitor your download, all you've got to do is run this command.
 
 It should spit out an output that looks like this. 
 
-	ID   Done       Have  ETA           Up    Down  Ratio  Status       Name
-    1     0%       None  Unknown      0.0     0.0   None  Idle         TORRENT
-    Sum:                None               0.0     0.0
+	ID   Done      Have  ETA      Up    Down  Ratio  Status  Name
+    1     0%       None  Unknown  0.0   0.0   None   Idle    TORRENT
+    Sum:           None               0.0     0.0
 
 ## Removing a Torrent 
 
