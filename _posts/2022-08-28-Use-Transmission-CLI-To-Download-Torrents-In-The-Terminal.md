@@ -53,7 +53,7 @@ It should spit out an output that looks like this.
 
 Now, ideally, you'd seed the torrent for as long as you possibly can, but eventually you've got to remove it. To do that, you're going to need to use the torrent's ID. This is the same ID that you can see when you run "transmission-remote -l". Then, once you know the ID, you can use this command. 
 
-  transmission-remote -t ID -r
+	transmission-remote -t ID -r
 
 # Conclusion 
 
