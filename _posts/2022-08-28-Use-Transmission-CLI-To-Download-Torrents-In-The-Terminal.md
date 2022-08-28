@@ -21,7 +21,7 @@ Depending on what Linux distro you use, feel free to copy-paste these command in
 
 # Enabling the Transmission Daemon 
 
-Before you can actually use Transmission, you are going to have to start the daemon. As long as you are using a distro with Systemd (You probably are) you can start Transmission with this simple command. 
+Before you can actually use Transmission, you are going to have to start the daemon. As long as you are using a distro with Systemd (You probably are) you can enable Transmission with this simple command. 
 
     sudo systemctl enable transmission-daemon
 
