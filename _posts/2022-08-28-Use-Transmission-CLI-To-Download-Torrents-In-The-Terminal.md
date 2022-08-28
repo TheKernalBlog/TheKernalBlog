@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Personally, I torrent a lot. I use torrents to download Linux ISO's, but also use them to download movies and TV shows. So, like every vital piece of software on my system, I'm very opinionated in terms of what I use. And after searching, finding, and using many different torrent clients, I have settled on Transmission. Transmission is a torrent client that can be used in many different platforms, under many different frameworks, including on the command line. So, if having a fully functional torrent client on the command line is something that appeals to you, I'll show you how you can install and use Transmission CLI on any Linux distro.  
 
