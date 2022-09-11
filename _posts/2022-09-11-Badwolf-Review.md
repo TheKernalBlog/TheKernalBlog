@@ -30,8 +30,8 @@ Your browser sucks. It's just the cold hard truth. Almost every modern browser i
 Overall, Badwolf is extremely simple. Almost everything is done with a mouse, and most of the shortcuts should carry over from your previous experience with other browsers. However, there are a few keyboard shortcuts that aren't very natural or common. I've compiled a table with some of the ones that I've personally had trouble with, but all of the shortcuts are also available on the manpage if you're still confused.
 
 | Action                         | Shortcut             |
-| ---                            | ---                  |
-| Go Back/forward in tab history | Ctrl-[ & Ctrl-]      |
+| ---                            | ---                  
+|  Go back/forward in tab history | Ctrl-[ &  Ctrl-]     |
 | Go to the next/previous tab    | Alt-Right & Alt-Left |
 | Focus on URL entry bar         | Ctrl-l               |
 | Kill the current tab           | Alt-d                |
