@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Your browser sucks. It's just the cold hard truth. Almost every modern browser is extremely slow, confusing, and privacy invasive. While there have been many attempts to create a usable and fast browser, almost all of them are based on Ungoogled Chromium or Firefox, which, while good for privacy, are incredibly bloated. I've searched far and wide for a browser that fits my needs without adding on too much unnecessary crap, and I think I may have found it. [Badwolf](https://hacktivis.me/projects/badwolf) is a WebKitGTK based, Suckless browser that's quick, standardized, and no-nonsense. So if you're interested in Badwolf, I'll give you some general pointers and facts about this one-of-a-kind browser.
 
