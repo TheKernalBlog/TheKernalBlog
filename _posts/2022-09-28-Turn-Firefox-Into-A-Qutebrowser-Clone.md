@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 If you care about privacy, want some addons, and a generally fast and lightweight browsing experience, you probably use Firefox, or one of the many forks. But Firefox, like many other modern browsers has become increasingly bloated and inefficient to control with a keyboard. As a result, people have been switching over to Qutebrowser and Surf. And while these are amazing browsers that I would definitely recommend, there's another option that fewer people consider.Using CSS and Web Extensions to can get the fast, keyboard centered browser of your dreams. Here's how. 
 
@@ -47,4 +47,4 @@ Now, all you need to do is copy the userChrome.css file over like so.
 
 # Conclusion
 
-Qutebrowser is a fine browser, and may even be better than Firefox for some users. However, Firefox has much better support and many more addons. If you're just a regular user, I'd stick with Firefox, and these two tools allow a seamless Vim + tiling window manager experience. So now, if you need a browser to scratch that particular itch, you don't have to go through the hassle of switching browsers. 
+Qutebrowser is a fine browser, and may even be better than Firefox for some users. However, Firefox has much better support and many more addons. If you're just a regular user, I'd stick with Firefox, and these two tools allow a seamless Vim + tiling window manager experience. So now, if you need a browser to scratch that particular itch, you don't have to go through the hassle of switching browsers.
