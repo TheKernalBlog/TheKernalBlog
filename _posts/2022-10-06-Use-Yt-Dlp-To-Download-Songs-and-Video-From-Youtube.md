@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Youtube is the defacto place for video on the internet. There are other video hosting platforms, but none have even come close in popularity, profitability, or ease of use. Youtube is an essential pillar in the modern internet. However, it's owned by Google. There are many privacy concerns, along with inescapable adds and an insane amount of bloat. So, in response, people have started making various back-ends and clients. However, by far, the best option is to simply download the video files to be watched locally and offline. That's where yt-dlp comes in. yt-dlp is a package that downloads Youtube videos, extremely quickly and efficiently. And so, I'm going to show to install, and use yt-dlp, while providing a handy bash script that makes using yt-dlp a breeze.
 
