@@ -25,7 +25,7 @@ I was quite impressed with GhostBSD's boot speed as well. On my pretty slow HHD,
 
 ![GhostDesktop](/images/GhostDesktop.png)
 
-GhostBSD chose the Mate desktop environment, the perfect choice for a user-friendly, lightweight distro that GhostBSD aims to be. And by god, it's one of the most beautiful Mate desktop iterations that I've ever seen. It sticks to the traditional panel layout, but makes use of the [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) theme & [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) icons to make MATE a little easier on the eyes. It's not quite as heavily riced as Ubuntu Mate, but I think that's the point. 
+GhostBSD chose the Mate desktop environment, the perfect choice for the user-friendly, lightweight distro that GhostBSD aims to be. And by god, it's one of the most beautiful Mate desktop iterations that I've ever seen. It sticks to the traditional panel layout, but makes use of the [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) theme & [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) icons to make MATE a little easier on the eyes. It's not quite as heavily riced as Ubuntu Mate, but I think that's the point. 
 
 # Default Software 
 
