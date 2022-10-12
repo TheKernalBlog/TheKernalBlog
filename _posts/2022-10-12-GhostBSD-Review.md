@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Sometimes, you've got to feel bad for BSD. Despite being a mature, well developed project with an amazing community and tons of development, it has less than a 0.5% desktop market share. It's constantly beaten by Linux in the usability and hardware support departments. There's not much that the already overworked FreeBSD team can do to support the proprietary firmware required by Intel, AMD, & Nvidea, but, there's still a lot of work that can be done in terms of usability. Now, FreeBSD isn't ever going to have an official ISO with a super noob-friendly desktop environment and installer, but GhostBSD certainly will. But does in deliver?   
+Sometimes, you've got to feel bad for BSD. Despite being a mature, well developed project with an amazing community and tons of development, it has less than a 0.01% desktop market share. It's constantly beaten by Linux in the usability and hardware support departments. There's not much that the already overworked FreeBSD team can do to support the proprietary firmware required by Intel, AMD, & Nvidea, but, there's still a lot of work that can be done in terms of usability. Now, FreeBSD isn't ever going to have an official ISO with a super noob-friendly desktop environment and installer, but GhostBSD certainly will. But does in deliver?   
 
 # Install 
 
