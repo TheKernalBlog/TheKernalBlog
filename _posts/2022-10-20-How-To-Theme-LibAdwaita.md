@@ -45,12 +45,8 @@ Then, I'd recommend installing the gtk-adw3 theme. This is a theme that replicat
 	cd adw-gtk3v4-0
 	
 	mv adw-gtk3 ~/.themes
-	
-Apply it, 
 
 ![IMG2](/images/Tweaks.png) 
-
-and then launch gradience.
 
 ## Using Gradience to set the colorscheme 
 
