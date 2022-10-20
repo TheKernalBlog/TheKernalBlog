@@ -30,7 +30,7 @@ And tada! It works!
 
 # Automatic Theming 
 
-If you're not looking to use a specific colorscheme, but still want a little bit of customization in your desktop, this is the way to go. Using Gradience, you simply upload your wallpaper, and get an automatically generated theme that applies to LibAdwaita and gtk-adw3. Gradience maintains the LibAdwaita look while changing the colorscheme, so it won't even make . To start, just install with Flatpak. 
+If you're not looking to use a specific colorscheme, but still want a little bit of customization in your desktop, this is the way to go. Using Gradience, you simply upload your wallpaper, and get an automatically generated theme that applies to LibAdwaita and gtk-adw3. Gradience maintains the LibAdwaita look while changing the colorscheme, ensuring stability. To start, just install with Flatpak. 
 
 ## Installing Gradience 
 
@@ -54,7 +54,7 @@ and then launch gradience.
 
 ## Using Gradience to set the colorscheme 
 
- Gradience is dead simple to use. All you need to do is go over to the ***Monet*** tab, and upload your wallpaper where it says, 'Background Image'. From there, you can choose between a light and dark theme and manually change some of the colors that you don't like. Once you've got your colorscheme, hit 'apply', check the box next to 'GTK3 Applications', and apply the theme. 
+ Gradience is dead simple to use. All you need to do is go over to the ***Monet*** tab, and upload your wallpaper where it says, 'Background Image'. From there, you can choose between a light and dark theme and manually change some of the colors that you don't like. Once you've got your colorscheme, hit 'apply', check the box next to 'GTK3 Applications', and set the theme. 
  
  ![IMG3](/images/GradienceWorks.png) 
 
