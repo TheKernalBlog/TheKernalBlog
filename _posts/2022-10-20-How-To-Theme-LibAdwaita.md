@@ -10,7 +10,7 @@ GNOME's switch to Libadwaita has been a little controversial. Many people have c
 
 Surprisingly, there are quite a few themes that now support theming LibAwdaita. But, I personally found a pretty good [github repo](https://github.com/odziom91/libadwaita-themes) that has plenty of themes that seem to work. If you have git, just copy this command into the terminal. 
 
-	git clone https://github.com/odziom91/libadwaita-themes
+`git clone https://github.com/odziom91/libadwaita-themes`
 
 ## Applying the LibAdwaita theme 
 
@@ -18,11 +18,11 @@ While you can use your file manager to unzip and move the theme file in a GUI, I
 
 	`cd libadwaita-themes/THEME`
 
-	`unzip THEME.zip` 
+`unzip THEME.zip` 
 
-	`rm -Rf ~/.config/gtk-4.0`
+`rm -Rf ~/.config/gtk-4.0`
 
-	`mv gtk-4.0 ~/.config` 
+`mv gtk-4.0 ~/.config` 
 
 And tada! It works! 
 
@@ -40,11 +40,11 @@ If you're not looking to use a specific colorscheme, but still want a little bit
 
 Then, I'd recommend installing the gtk-adw3 theme. This is a theme that replicates the look of LibAdwaita in GTK3 applications. But most importantly, gtk-adw3 is able to be themed by Gradience. Just go to the official [github repo](https://github.com/lassekongo83/adw-gtk3/releases/tag/v4.0) and download the most recent tar file. Then, move it to the *.themes* directory and apply it. 
 
-	`tar xf adw-gtk3v4-0.tar.xz`
+`tar xf adw-gtk3v4-0.tar.xz`
 	
-	`cd adw-gtk3v4-0` 
+`cd adw-gtk3v4-0` 
 	
-	`mv adw-gtk3 ~/.themes` 
+`mv adw-gtk3 ~/.themes` 
 	
 Apply it, 
 
