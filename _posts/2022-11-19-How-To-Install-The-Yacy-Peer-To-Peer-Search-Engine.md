@@ -1,3 +1,7 @@
+---
+published: true
+---
+
 Chances are, if you're as paranoid as me, you've used a wide variety of search engines. Every couple months or so, I'd find a shiny new search engine that claims to be faster, easier, or, most importantly, better for privacy. I've used DuckDuckGo, Searx, Metager, Startpage, Whoogle, and more. But recently, while trying to set a VPN on my homelab, a new search engine caught my eye. I had discovered Yacy: a different kind of search engine. Yacy is a self-hosted, peer-to-peer search engine that completely throws all conventions out the window. And so, if you'd like to give it a whirl, I'll show you how you can install, configure, and use Yacy as your search engine.
 
 
