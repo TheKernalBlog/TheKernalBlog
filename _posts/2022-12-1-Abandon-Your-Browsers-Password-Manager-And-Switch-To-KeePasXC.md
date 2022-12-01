@@ -1,3 +1,7 @@
+---
+published: true
+---
+
 Every day, there are hundreds and thousands of Email addresses and passwords released in huge data breaches. No matter how unique or strong your password is, if you re-use it, and one of your accounts is compromised, all of your accounts are compromised. For that reason, password managers are becoming incredibly popular for both the paranoid privacy enthusiast and regular person. Sadly though, many of these password managers are closed source, built into the browser, or stored in the cloud. It's certainly better than nothing, but if you really want the best of the best without having to pay the money to host your own server, one option stands out from the rest. KeePassXC is a FOSS solution that provides you with all of the luxuries of a built-in browser password manager, with the security and peace of mind that comes with storing your passwords on a local encrypted file. If you're interested, I'll show you how you can install KeePassXC, create your database, and integrate KeePassXC flawlessly with your browser.
 
 
