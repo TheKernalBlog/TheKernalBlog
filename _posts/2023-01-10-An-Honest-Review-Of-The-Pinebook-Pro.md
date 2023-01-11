@@ -2,7 +2,7 @@
 published: true
 ---
 
-![IMAGE](/images/Pinebok.png) 
+![IMAGE](/images/Pinebook.png) 
 
 # Introduction 
 
