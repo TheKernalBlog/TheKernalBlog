@@ -30,7 +30,7 @@ Yacy itself only has one dependency, Java 8. However, to install it, you're goin
 
 ### Arch Linux
 
-`sudo pacman -S java8-openjdk wget tar`
+`sudo pacman -S jdk8-openjdk wget tar`
 
 
 <a id="org0ff29d0"></a>
