@@ -6,7 +6,7 @@ published: true
 
 It's the year 1991! The internet is growing, Windows is still just a DOS program, and Unix is killing it. SunOS, System 6, and MINIX are making computers much more attainable for the average Joe. But, although they were still quite impressive for their time, a lot of these OS's weren't the most ideal. Undoubtedly, the biggest problem was that most of them didn't officially support the cheaper, and increasingly popular Intel x86 processors. Most of the ports available for the platform were either developed by the community, or lacking the performance you would expect from officially supported CPU architectures. And so, Linus Torvalds, while attending university for computer science in 1991, decided to, *just for fun*, write his own operating system. And after about 4 months of work, he announced his creation to the Minix newsgroup with this now infamous post.
 
- `Hello everybody out there using minix -
+ `Hello everybody out there using minix -`
 
 
  I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT    clones. This has been brewing since april, and is starting to get ready. I'd like any feedback on things people  like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical  reasons) among other things).
