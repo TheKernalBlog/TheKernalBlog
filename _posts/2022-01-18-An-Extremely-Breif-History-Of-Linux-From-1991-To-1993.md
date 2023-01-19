@@ -6,17 +6,17 @@ published: true
 
 It's the year 1991! The internet is growing, Windows is still just a DOS program, and Unix is killing it. SunOS, System 6, and MINIX are making computers much more attainable for the average Joe. But, although they were still quite impressive for their time, a lot of these OS's weren't the most ideal. Undoubtedly, the biggest problem was that most of them didn't officially support the cheaper, and increasingly popular Intel x86 processors. Most of the ports available for the platform were either developed by the community, or lacking the performance you would expect from officially supported CPU architectures. And so, Linus Torvalds, while attending university for computer science in 1991, decided to, *just for fun*, write his own operating system. And after about 4 months of work, he announced his creation to the Minix newsgroup with this now infamous post.
 
-~Hello everybody out there using minix -~
+ Hello everybody out there using minix -
 
 
-~I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones. This has been brewing since april, and is starting to get ready. I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things).~
+ I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT   clones. This has been brewing since april, and is starting to get ready. I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things).
 
-~I've currently ported bash(1.08) and gcc(1.40), and things seem to work. This implies that I'll get something practical within a few months, and I'd like to know what features most people would want. Any suggestions are welcome, but I won't promise I'll implement them :-)~
+ I've currently ported bash(1.08) and gcc(1.40), and things seem to work. This implies that I'll get something practical within a few months, and I'd like to know what features most people would want. Any suggestions are welcome, but I won't promise I'll implement them :-)
 
-~Linus (torvalds@kruuna.helsinki.fi)~
+ Linus (torvalds@kruuna.helsinki.fi)
 
-~PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, as that's all I have :-(.~
-~— Linus Torvalds~
+ PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, as that's all I have :-(.
+ — Linus Torvalds
 
 
 A month later, Linus releases Linux 0.01 under his own license, which stated that the, "Full source must be available" and that "You may not distribute this for a fee". The entire license was only less than 200 words, and managed to stick around for a whole year's worth of time.
