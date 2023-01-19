@@ -1,8 +1,6 @@
 ---
 published: true
 ---
- 
-
 # 1991 
 
 It's the year 1991! The internet is growing, Windows is still just a DOS program, and Unix is killing it. SunOS, System 6, and MINIX are making computers much more attainable for the average Joe. But, although they were still quite impressive for their time, a lot of these OS's weren't the most ideal. Undoubtedly, the biggest problem was that most of them didn't officially support the cheaper, and increasingly popular Intel x86 processors. Most of the ports available for the platform were either developed by the community, or lacking the performance you would expect from officially supported CPU architectures. And so, Linus Torvalds, while attending university for computer science in 1991, decided to, *just for fun*, write his own operating system. And after about 4 months of work, he announced his creation to the Minix newsgroup with this now infamous post.
