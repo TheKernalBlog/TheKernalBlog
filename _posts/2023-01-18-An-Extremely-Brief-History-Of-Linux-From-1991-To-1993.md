@@ -29,13 +29,18 @@ This is when things started to get interesting. X worked on Linux, allowing for 
 
 This year also marked the launch of the first Linux distros. Back then, many people rolled their own version of Linux from scratch, but early computing companies and schools started to create some proper Linux distros for personal and professional use.
 
+## MCC Linux
+
 The first ever Linux distro was MCC, from the Manchester Computing Center, made by Owen Le Blanc. It didn't have X, but it did come with an actual installer, GNU coreutils, and a lot of the other luxuries that come for granted on Linux nowadays. It may not look like anything too special, but back then, it was a huge improvement to a lot of the other Unix based systems that were in use at the time. 
 
+## TAMU Linux 
+
 But all of that success would soon be overshadowed by Texas A&M's new masterpiece, TAMU Linux. TAMU Linux was the second ever Linux distro, and the first one to ship with the X windowing system. TAMU was instantly a hit, shipping with the fvwm window manager, Emacs text editor, and even Tetris. Network configuration and disk partitioning were done automatically, and the desktop was clean and easy to understand. TAMU was, undoubtedly, the fist ever real desktop Linux distro. 
+## SLS
 
 However, SLS (Softlanding Linux System) is undoubtedly the Linux distro in 1992 that had the most effect. While SLS also had the X windowing system, it was beaten to the punch by TAMU Linux by only a few days. SLS Linux was created by Patrik Volderkin, who would charge 99 US dollars plus a shipping and handling fee for an instillation medium. But what made SLS so great that people were willing to pay the equivalent of 212$ for it? It shipped with an installer, disk space optimization, package management, and even a fully-featured DOS emulator. It was simply the best available Linux distro at the time. And most important of all, SLS served as the initial building block for many future Linux distros. 
 
-It is also worth noting, that SUSE, a company still in business to this day, was created this year with the goal of developing and selling Linux products to businesses. However, they would not make their first official Linux distro for 4 more years. 
+It is also worth noting, that SUSE, a company still in business to this day, was created this year with the goal of developing and selling Linux products to businesses, but they would not make their first official Linux distro for 4 more years. 
 
 As for the kernel itself, 1992 came with a lot of development. Obviously, with more widespread adoption, more drivers were added and the kernel got more optimized in general (The size of the kernel doubled). But the real news came right at the end of the year, when Linux was officially released under the GNU GPL version 2. The GPL is much more coherent than the cobbled-together mess that Linus wrote, and is undoubtedly part of the reason that Linux is still so prevalent today. The GPL made it a requirement that if you use Linux in a product, you must publish all of the source code, including your changes. This stopped any big companies from creating their own proprietary versions of Linux, while still allowing for profitable commercial products. Which, as you can imagine, did wonders for Linux's future financial success. 
 
@@ -43,7 +48,11 @@ As for the kernel itself, 1992 came with a lot of development. Obviously, with m
 
 1993 is the year in which two great titans of the Linux world were created: Slackware and Debian. 
 
+## Slackware 
+
 Although released under a different name, Slackware was, at this time, undoubtedly an extension of the original SLS Linux operating system. Slackware was created by Patrick Volkerding, who, apart from having an eerily similar name to Patrik Volderkin, shared an interest in making Linux simpler and more reliable. While he didn't do a lot of the heavy lifting that comes with making an OS from scratch, he was able to patch bugs and fine-tune SLS, to make a substantially more stable and fast operating system. And because of this stability, Slackware remained the defacto Linux distro for a mind-boggling amount of time. 
+
+## Debian 
 
 Debian is another staple Linux distro created in 1993. It wasn't anything close to the Debian you know today, but there was something there. Just like Slackware, Debian was based on SLS. And over the year, there was a tremendous amount of work being done. However, while Debian officially started in 1993, there's not much to talk about, as the first public release wasn't available till early 1994. 
 
