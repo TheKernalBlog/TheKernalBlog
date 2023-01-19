@@ -14,10 +14,9 @@ It's the year 1991! The internet is growing, Windows is still just a DOS program
 
  `Linus (torvalds@kruuna.helsinki.fi)`
 
-  `PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable (uses 386 task  switching etc), and it probably never will support anything other than AT-harddisks, as that's all I have :-(.'
+ `PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable (uses 386 task  switching etc), and it probably never will support anything other than AT-harddisks, as that's all I have :-(.`
   
-  '— Linus Torvalds'
-
+  `— Linus Torvalds`
 
 A month later, Linus releases Linux 0.01 under his own license, which stated that the, "Full source must be available" and that "You may not distribute this for a fee". The entire license was only less than 200 words, and managed to stick around for a whole year's worth of time.
 
