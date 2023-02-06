@@ -1,3 +1,7 @@
+---
+published: true
+---
+
 ARM is taking over the world. There are an estimated 6.8 billion people in the world walking around every day with an incredibly ARM powered computer in their pocket. And while the smartphone market is entirely focussed on these cheaper, more efficient chips, desktop & laptop computers are almost all still using Intel x86 processors. But, there are exceptions. Especially in China, there are hundreds of ARM laptops & desktops being produced every day that bring powerful, affordable computers to the masses. And the primary operating system being used on these computers? Linux. So, as someone who owns one of these ARM laptops, I believe I'm in a position to fairly judge some of the Linux distros that I've personally tried, and give some recommendations as to what Linux distro could fit your needs best.
 
 # Manjaro 
