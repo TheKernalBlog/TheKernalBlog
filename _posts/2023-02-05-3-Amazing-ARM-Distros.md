@@ -17,7 +17,7 @@ Some of the most appreciated additions are the Armbian instillation, configurati
 
 But, there are some things that are lacking. On the Pinebook, even with the newest kernel, I can't seem to get Bluetooth to work, and USB-C DP output is extremely buggy. It makes sense, because Armbian has comparatively a lot less contributors that Manjaro, and a wide range of devices to support, but for such a popular laptop I hoped that some of these problems would be ironed out by now.  
 
-# Q4Os 
+# Q4OS
 
 Q4OS is an extremely interesting Debian based distro that I've had my eyes on for a while. It's well known in the Linux community for reviving old 32 bit machines with its desktop environment Tritiny. But it seems like they are trying to expand into the ARM market. And before I tried Armbian, I tried Q4OS on a SD card and had a pretty nice experience. 
 
