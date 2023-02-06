@@ -10,6 +10,7 @@ ARM is taking over the world. There are an estimated 6.8 billion people in the w
 # Manjaro 
 
 Manjaro is the OS that shipped with my Pinebook Pro, and if you've read my other blog on the subject, you'd know that I did not have the best experience. But still, even though my initial impression may not have been the best, it's hard to dislike Manjaro. The truth is, in most cases, you just can't beat it. Manjaro ships with 5 different desktop environments, a ton of very sensible applications, and amazing hardware support. Like all ARM distros, the install was a little more complicated then I'd have hoped, but apart from that, everything was super simple. With other ARM distros, I've had to spend hours fiddling around with kernels and drivers before I could get it into a usable state. But, when I install Manjaro, I know I don't have to worry about it. 
+
 However, that convenience comes with a cost. Manjaro is, at least from my experience, incredibly unstable. Now, being based on Arch, you wouldn't expect it to be perfect, but I've installed Manjaro on both x86 & ARM systems, and I've faced a ton of issues. I've had unfixable package conflicts, WiFi bugs, and I've even had the bootloader completely fail on me a couple times. So if you're considering Manjaro, be sure to take that into account.  
 
 # Armbian 
