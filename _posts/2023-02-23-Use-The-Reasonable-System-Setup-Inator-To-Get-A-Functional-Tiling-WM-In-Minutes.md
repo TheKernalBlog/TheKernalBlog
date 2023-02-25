@@ -73,7 +73,7 @@ Here, you don't have to anything. Just sit back as Vim pops up and installs all 
 
 ## Guide  
 
-![IMG5](/images/ScriptRSII.png) 
+![IMG5](/images/GuideRSII.png) 
 
 Finally, you'll be met with one final prompt. It will ask: 
 
