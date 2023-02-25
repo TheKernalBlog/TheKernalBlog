@@ -79,7 +79,7 @@ Finally, you'll be met with one final prompt. It will ask:
 
     Are you currently using a GUI? (y/n) 
 
-If you answered yes, Zathura will pop up with with the guide. It's incredibly simplistic, so just spend a minute reading over the keybindings before log in to RSII. 
+If you answered yes, Zathura will pop up with with the guide. It's incredibly simplistic, but quite important, so make sure to spend a minute reading over the keybindings before you log in to RSII. 
 
 # You did it! 
 
