@@ -77,7 +77,7 @@ Here, you don't have to anything. Just sit back as Vim pops up and installs all 
 
 Finally, you'll be met with one final prompt. It will ask: 
 
-    Are you cerrently using a GUI? (y/n) 
+    Are you currently using a GUI? (y/n) 
 
 If you answered yes, Zathura will pop up with with the guide. It's incredibly simplistic, so just spend a minute reading over the keybindings before log in to RSII. 
 
