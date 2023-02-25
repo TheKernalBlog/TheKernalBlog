@@ -4,7 +4,7 @@ published: true
 
 ![IMG1](/images/DesktopRSII.png) 
 
-I'm definitely not the first person to do this. In fact, I've made use of many similar shell scripts & configurations in the past. But, still, I believe that RSII in particular provides a lot. It's significantly less colorful, flashy, or complicated as other scripts; that's by design. RSII, is a very bare bones i3 & Vim configuration that you can plug & play on any distro without needing much prior experience. So, if you think that sounds like something you'd be interested in, get ready. Because I'm going to show you how you can download and run my RSII, and get everything up and running in under 10 minutes.
+I'm definitely not the first person to do this. In fact, I've made use of many similar shell scripts & configurations in the past. But, still, I believe that RSII in particular provides a lot. It's significantly less colorful, flashy, or complicated as other scripts, and that's by design. Basically, RSII is a very bare bones i3 & Vim configuration that you can plug & play on any distro without needing much prior experience. So, if you think that sounds like something you'd be interested in, get ready. Because I'm going to show you how you can download and run my RSII, and get everything up and running in under 10 minutes.
 
 # Downloading The Script 
 
@@ -59,11 +59,11 @@ Now, you'll be asked:
 
     Would you like to use a GUI to configure multiple monitors? (y/n) 
 
-If you're in a TTY, or only have one monitor, type *n* and move on. But, if you do have multiple monitors, type *y* to bring up arandr. 
+If you're in a TTY, or only have one monitor, type *n* and move on. But, if you have multiple monitors, type *y* to bring up arandr. 
 
 Here, you can use arandr to move around, flip, and mess with your monitors to your hearts content. Then, once you're ready, follow the instructions. Click *save as*, and save your configuration in the pre-programmed directory as *monitor.sh*.  
 
-And once you're ready to move on, type *y* and you'll be taken to the next section. 
+Once you're ready to move on, type *y* and you'll be taken to the next section. 
 
 ## Vim 
 
@@ -83,4 +83,4 @@ If you answered yes, Zathura will pop up with with the guide. It's incredibly si
 
 # You did it! 
 
-If you followed all the instructions laid out in the shell script and in this blog, you should now have a working i3 setup with a newfangled Vim configuration. It's not the most awe-inspiring configuration available, but if all you want is a nice distraction free environment with an efficient workflow, you've got it. Sure, you could use LARBS or Archrice, but I think there's definitely a reasonable argument for using RSII instead. And while I may have used analogous scripts in the past, here's hoping that this is the last one I ever try. 
+If you followed all the instructions laid out in the shell script and in this blog, you should now have a working i3 setup with a newfangled Vim configuration. It's not the most awe-inspiring configuration available, but if all you want is a nice distraction free environment with an efficient workflow, you've got it. Sure, you could use LARBS or Archrice, but I think there's definitely a reasonable argument for using RSII instead. And while I may have used other analogous scripts in the past, here's hoping that this is the last one I ever try. 
