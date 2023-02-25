@@ -34,9 +34,9 @@ Then, make it executable.
 
     sudo chmod +x ~/RSII.sh 
 
-![IMG2](/images/ScriptRSII.png)
-
 # Running the Shell script
+
+![IMG2](/images/ScriptRSII.png)
 
 Now it's time to start the shell script! You can run the shell script like this, making sure not to use sudo.  
 
@@ -52,9 +52,8 @@ Use one of the three letters to select your distro, then hit enter. After you've
 
 Once all the packages are installed, the RSII directory will be cloned from github, and all pertinent files will be moved to their respective places.
 
-![IMG3](/images/Monitor15.png)
-
 ## Monitors 
+![IMG3](/images/Monitor15.png)
 
 Now, you'll be asked: 
 
@@ -66,15 +65,15 @@ Here, you can use arandr to move around, flip, and mess with your monitors to yo
 
 And once you're ready to move on, type *y* and you'll be taken to the next section. 
 
-![IMG4](/images/VimRSII.png) 
-
 ## Vim 
+
+![IMG4](/images/VimRSII.png) 
 
 Here, you don't have to anything. Just sit back as Vim pops up and installs all the best plugins for you. 
 
-![IMG5](/images/ScriptRSII.png) 
-
 ## Guide  
+
+![IMG5](/images/ScriptRSII.png) 
 
 Finally, you'll be met with one final prompt. It will ask: 
 
