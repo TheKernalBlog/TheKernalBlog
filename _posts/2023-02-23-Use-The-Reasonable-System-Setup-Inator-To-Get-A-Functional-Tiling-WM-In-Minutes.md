@@ -28,7 +28,7 @@ Before you can download RSII.sh, you'll need to have *git* installed. In most ca
 
 To download RSII.sh and move it into your home directory, you can copy this command into your terminal. 
 
-    git clone https://TheKernalBlog/RSII/ && mv ~/RSII/RSII.sh ~/ 
+    git clone https://github.com/TheKernalBlog/RSII/ && mv ~/RSII/RSII.sh ~/ 
 
 Then, make it executable. 
 
