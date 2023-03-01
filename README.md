@@ -4,7 +4,7 @@ The entire blog is open sourced under the MIT liscense, and is viewable at [this
 
 # Contact me 
 
-[Email Me](mailto:TheKernalBlog@protonmail.com) 
+[Email Me](mailto:PuntaGorda@disroot.org) 
 
 [Lemmy](https://lemmy.ml/u/TheKernalBlog)
 
