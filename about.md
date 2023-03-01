@@ -18,6 +18,6 @@ If you would like to request and article, or just realize that I have made a mis
 
 Sadly, Jeckyl does not allow you to write comments without the use of nonfree platforms. So, to protect your privacy and freedom, I have a Lemmy account where all my blogs get posted. There, you can comment and vote on my blogs. 
 
-[Email](mailto:TheKernalBlog@protonmail.com)
+[Email](mailto:PuntaGorda@disroot.org)
 
 [Lemmy.ml](https://lemmy.ml/u/TheKernalBlog)
