@@ -36,25 +36,25 @@ To configure Mutt, you're going to need a muttrc file. You can create it like so
 
 Then, to connect to IMAP and SMTP, add these two lines to your config file, replacing the bold elements with the addresses and ports of your preferred Email provider. 
 
-    set folder = "imaps://**Name**@**Email.com**@**Server.com**:**Port**"
+    set folder = "imaps://Name@Email.com@Server.com:Port"
     
     set spoolfile = "+INBOX" 
 
-    set smtp_url = "smtp://**Name**@**Email.com**@**Server.com**:**Port**"
+    set smtp_url = "smtp://NAME@EMAIL.COM@SERVER.COM:PORT"
 
 Now, when you launch Mutt, you should be able to check and respond to Emails. But, you'll have to enter a password when you log in, and when you send an Email. This can get a little annoying, so, if you wish to, you can counteract this by adding these two lines to your *muttrc*, replacing the bold text with your Email password. 
 
-    set imap_pass = "**PASSWORD**" 
+    set imap_pass = "PASSWORD" 
 
-    set smtp_pass = "**PASSWORD**"
+    set smtp_pass = "PASSWORD"
 
 # Adding Your *from* and *realname* addresses. 
 
 Now that you can actually use Mutt, you're going to want a from and realname address to ensure that everything goes smoothly. Add these two lines, inserting your Email address and real/fake name respectively. 
 
-    set from = "*NAME*@*EMAIL.com*" 
+    set from = "NAME@EMAIL.COM" 
 
-    set realname = "*Name* *Name*" 
+    set realname = "NAME NAME" 
 
 # Creating different Mailboxes 
 
