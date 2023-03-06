@@ -1,6 +1,7 @@
 ---
 published: true
---- 
+---
+ 
 
 ![Mutt.png](/images/Mutt.png)
 
@@ -75,4 +76,4 @@ Finally, you get to choose which text editor you wish to use for writing Emails.
 
 # You did it! 
 
-Now, if you've followed my guide correctly, you should have Mutt in a working state, with an effecient, streamlined Email experiance featuring multiple Mailboxes. You can answer your Email the way that it was meant to be answered, not in a bloated web interface or overly complicated modern Email client. And once the muscle memory clicks in, you'll be more efficient and productive than ever. Because while Mutt, just like Email, may not be flashy or impressive, it's one hell of an amazing tool. 
+Now, if you've followed my guide correctly, you should have Mutt in a working state, with an effecient, streamlined Email experiance featuring multiple Mailboxes. You can answer your Email the way that it was meant to be answered, not in a bloated web interface or overly complicated modern Email client. And once the muscle memory clicks in, you'll be more efficient and productive than ever. Because while Mutt, just like Email, may not be flashy or impressive, it's one hell of an amazing tool.
