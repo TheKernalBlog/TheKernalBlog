@@ -2,9 +2,7 @@
 published: true
 ---
  
-
 ![Mutt.png](/images/Mutt.png)
-
 Email is one of the most useful pieces of technology to have been created in the past 50 years. Sure, it may not be as flashy as high speed video streaming or as complicated as neural networks, but it's revolutionized the ways that a most people work and communicate. The ability to instantly send a message to anyone in the world with virtually no cost is revolutionary. And part of Email's appeal comes with the wide variety of options for how you want to interface with it. One of the most important choices you make when using Email is what client you want to use. And today I'd like to highlight one Email client in particular: Mutt. Mutt is a terminal based Email client that doesn't mess around. Almost anything you'd want to do in Thunderbird or Outlook can be done on Mutt, with less bloatware and more efficiency. So if that sounds good to you, here's how you can install and configure the Mutt Email client. 
 
 # Can You Use Mutt? 
