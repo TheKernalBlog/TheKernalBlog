@@ -41,7 +41,7 @@ Having your entire OS contained in a USB stick is very convenient. If you have a
 
 # Why Shouldn't You Use Tails As Your Main OS?
 
-Simply put, while you can do most of your work in Tails, it's not nearly as efficient as a locally installed operating system. There's almost no chance for customization, you're limited in what apps you can install, and on top of that, you've got significantly less storage. For that small bump in convenience, you are loosing a lot of features. Plus, by carrying your entire operating system in a USB drive, you're increasing the chances that you loose or break it by a lot, which could wipe out your entire operating system with something as trivial as an unzipped zipper on your bag. 
+Simply put, while you can do most of your work in Tails, it's not nearly as efficient as a locally installed operating system. There's almost no chance for customization, you're limited in what apps you can install, and on top of that, you've got significantly less storage. For that small bump in convenience, you are loosing a lot of features. Plus, by carrying your entire operating system in a USB drive, you're increasing the chances that you loose or break it by a lot, which could wipe out your entire operating system with something as trivial as an unzipped zipper on your backpack... 
 
 
 <a id="org2e0951a"></a>
